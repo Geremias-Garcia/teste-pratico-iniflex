@@ -84,6 +84,6 @@ R$ XX.XXX,XX
 
 ---
 
-## 📌 Autor
+## Autor
 
 Desenvolvido por **Geremias Garcia**
